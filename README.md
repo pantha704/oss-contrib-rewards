@@ -8,31 +8,32 @@ Maintained by [@pantha704](https://github.com/pantha704). PRs welcome — see [C
 
 ---
 
-## 1) 👕 Swag — what you get for contributing
+## 1) 👕 Swag — what you get for contributing (status-checked)
 
-| Project | Repo | Reward | What counts | Status |
-|---|---|---|---|---|
-| **DocsGPT** | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 👕 T-shirt | *Meaningful* merged PR (fix/feature/docs), Oct 1–31 2026; no trivial changes | Live Oct 2026 |
-| **QuestDB** | [questdb/questdb](https://github.com/questdb/questdb) | 👕 T-shirt | Bugfix / feature / meaningful contribution with reproducer | Evergreen |
-| **MindsDB** | [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) | 👕 SWAG credits (store) | Contributions to MindsDB | Evergreen |
-| **Gatsby** | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 👕 Shirt, socks, stickers | Merged PRs; 5+ → Level 2 swag | Evergreen |
-| **Kong** | [Kong/kong](https://github.com/Kong/kong) | 👕 T-shirt | 1 merged PR | Evergreen |
-| **Postman** | [postmanlabs](https://github.com/postmanlabs) | 👕 T-shirt | Notable contribution to a Postman OSS project | Evergreen |
-| **GoFr** | [gofr-dev/gofr](https://github.com/gofr-dev/gofr) | 👕 T-shirt + stickers | Notable PR **or** article | Evergreen |
-| **Prefix.dev** | [prefix-dev/pixi](https://github.com/prefix-dev/pixi), [rattler-build](https://github.com/prefix-dev/rattler-build) | 👕 T-shirt + stickers | First-time contributors | Recent |
-| **Turbot** | [turbot](https://github.com/turbot) | 👕 Swag | Low-code / no-code / code | Recent |
-| **RedwoodJS** | [redwoodjs/redwood](https://github.com/redwoodjs/redwood) | 👕 Stickers | Address form; 100/week worldwide | Evergreen |
-| **IHP** | [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) | 👕 Stickers | Star + form | Evergreen |
-| **JSBin** | [jsbin/jsbin](https://github.com/jsbin/jsbin) | 👕 Stickers | Form with address | Evergreen |
-| **Robo.js** | [Wave-Play/robo.js](https://github.com/Wave-Play/robo.js) | 💰 Nitro + 👕 tees | Plugins / templates / videos | Check rules |
-| **Airbyte** | [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | 💰 $50/connector + 👕 | Connector merged | ⚠️ verify cycle |
-| **OpenBB** | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | 👕 T-shirt / hat | 2023 program | ⚠️ historical |
-| **Covalent** | — | 💰 $25–100/PR | 2023 program | ⚠️ historical |
-| **AppBlock** | — | 💰 ₹5,000/PR | 2023–24 program | ⚠️ historical |
+> Status sourced from [swag-for-dev data.json](https://github.com/swapagarwal/swag-for-dev) (live/expired tags) + [hacktoberfest-swag.com](https://hacktoberfest-swag.com/) (2026-verified listings). Aggregators disagree sometimes — the project's own page wins.
 
-Swag directories (always fresh): [hacktoberfest-swag.com](https://hacktoberfest-swag.com/) · [hacktoberfestswaglist.com](https://hacktoberfestswaglist.com/) · [devswag.io](https://devswag.io/) · [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) · [swags-devs](https://github.com/open-xyz/swags-devs)
+### ✅ Live
+
+| Project | Repo | Reward | What counts |
+|---|---|---|---|
+| **DocsGPT** | [arc53/DocsGPT](https://github.com/arc53/DocsGPT) | 👕 T-shirt | Meaningful merged PR (fix/feature/docs), Oct 1–31 2026 — 2026-verified listing |
+| **GoFr** | [gofr-dev/gofr](https://github.com/gofr-dev/gofr) | 👕 T-shirt + stickers | Notable PR **or** article about GoFr |
+| **Gatsby** | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) | 👕 Shirt, socks, mug, stickers | Merged PR (5+ contributions → higher tier) |
+| **Kong** | [Kong/kong](https://github.com/Kong/kong) | 👕 Contributor T-shirt | 1 accepted PR to any Kong repo |
+| **Mattermost** | [mattermost](https://github.com/mattermost) | 👕 Mug | First-time contributor, PR merged to a public repo |
+| **Postman** | [postmanlabs](https://github.com/postmanlabs) | 👕 T-shirt | Notable contribution to a Postman OSS project |
+| **IHP** | [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) | 👕 Stickers | Form with address |
+| **JS Bin** | [jsbin/jsbin](https://github.com/jsbin/jsbin) | 👕 Stickers | Form with address |
+| **GeeksForGeeks** | — | 👕 T-shirts, hoodies, bags | Daily coding problems + coin system |
+
+### ⚠️ Expired (historical — verify before working)
+
+Prefix.dev (pixi/rattler-build, 2023) · QuestDB · MindsDB · Turbot · RedwoodJS · Airbyte · Robo.js · OpenBB · Covalent · AppBlock · Huddle01 · Haystack · WeVis · Interledger · Dyrector.io · Appwrite
+
+Swag directories (always fresh): [swag-for-dev data](https://github.com/swapagarwal/swag-for-dev) · [hacktoberfest-swag.com](https://hacktoberfest-swag.com/) · [hacktoberfestswaglist.com](https://hacktoberfestswaglist.com/) · [devswag.io](https://devswag.io/)
 
 > Rule everywhere: meaningful contributions only. Get assigned first. Never spam maintainers for swag.
+
 
 ## 2) 💰 Paid per-contribution
 
